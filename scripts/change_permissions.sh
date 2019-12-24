@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 /var/ww/html/index.php
+chmod 644 /var/www/html/index.php
